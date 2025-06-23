@@ -11,3 +11,8 @@ These are the VPC settings we observed Tim setup for our cloud environment in AW
 - VPC Endpoints: None
 - DNS Options: Enable DNS Hostnames
 - DNS Options: Enable DNS Resolution
+
+## Visualitation in Infracture Composer
+
+
+![](assets/aws_infr_composer.jpeg)
